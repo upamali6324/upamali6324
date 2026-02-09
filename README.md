@@ -1,22 +1,74 @@
-# Final Year Electrical and Electronics Engineering Student
+<h1 align="center">
+  Hi 👋, I'm an Electrical & Electronics Engineer
+</h1>
 
-## About Me
-Hello! I'm an enthusiastic final year undergraduate student specializing in Electrical and Electronics Engineering. Passionate about innovation and technology, I enjoy working on projects that blend my knowledge of electronics and software development.
+<h3 align="center">
+Final Year EEE Student | Embedded Systems | Power & Automation ⚡
+</h3>
 
-## Skills
-- Circuit Design & Analysis
-- Microcontrollers (Arduino, Raspberry Pi)
-- Programming (C/C++, Python)
-- Power Systems
-- Embedded Systems
-- Signal Processing
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=650&lines=Electrical+%26+Electronics+Engineering+Student;Embedded+Systems+%26+IoT+Enthusiast;Power+Systems+%26+Automation;Building+Smart+%26+Efficient+Solutions" />
+</p>
 
-## Projects
-1. **Smart Home Automation System**: Developed a prototype using Arduino and IoT technology to automate home appliances.
-2. **Renewable Energy Solution**: Designed a solar power system aimed at reducing energy costs and promoting sustainability.
-3. **Robotic Arm**: Constructed a programmable robotic arm for picking and moving objects, improving automation processes.
+---
 
-## Contact Information
-Feel free to connect with me on LinkedIn or reach out via email for collaborations or inquiries.
-- LinkedIn: [Your LinkedIn Profile](#)
-- Email: your.email@example.com
+## 👨‍🎓 About Me
+
+🔹 Final year undergraduate in **Electrical & Electronics Engineering**  
+🔹 Strong interest in **Embedded Systems, Power Systems, and Automation**  
+🔹 Enjoy working at the intersection of **hardware and software**  
+🔹 Motivated to build reliable, efficient, and scalable engineering solutions ⚙️  
+
+---
+
+## 🛠️ Technical Skill Set
+
+### ⚡ Electrical & Electronics
+- Circuit Design & Analysis  
+- Power Systems  
+- Signal Processing  
+- Control Systems  
+
+### 🤖 Embedded & Hardware
+- Arduino  
+- Raspberry Pi  
+- Microcontrollers  
+- Sensors & Interfacing  
+
+### 💻 Programming
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/upamali-wijayawardhana/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your.upamali6324@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ <i>Engineering the future through innovation and precision.</i> ⚡
+</p>
