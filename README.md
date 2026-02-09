@@ -8,7 +8,9 @@ Electrical & Electronics Engineering Undergraduate
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=200&section=header&text=Electrical%20%26%20Electronics%20Engineering&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Final+Year+EEE+Student;Embedded+Systems+%26+IoT;Power+Systems+%26+Automation" />
+</p>
 
 ---
 
