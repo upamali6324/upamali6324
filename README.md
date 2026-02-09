@@ -5,11 +5,11 @@ Electrical & Electronics Engineering Undergraduate
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=650&lines=Final+Year+EEE+Student;Embedded+Systems+%26+IoT+Enthusiast;Power+Systems+%26+Automation;Designing+Efficient+Engineering+Solutions" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=200&section=header&text=Electrical%20%26%20Electronics%20Engineering&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/main/img/github-contribution-grid-snake.svg" alt="animated grid" width="90%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Final+Year+EEE+Student;Embedded+Systems+%26+IoT;Power+Systems+%26+Automation" />
 </p>
 
 ---
@@ -49,11 +49,11 @@ Electrical & Electronics Engineering Undergraduate
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
 </p>
 
 ---
