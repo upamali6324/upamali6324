@@ -1,6 +1,6 @@
-<h1 align="center">
-  Hi 👋, I'm an Electrical & Electronics Engineer
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:001F3F&height=280&section=header&text=Upamali%20Wijayawardhana&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electrical%20%26%20Electronics%20Engineering%20Student&descAlignY=55&descSize=18" />
+</p>
 
 <h3 align="center">
 Final Year EEE Student | Embedded Systems | Power & Automation ⚡
@@ -62,7 +62,7 @@ Final Year EEE Student | Embedded Systems | Power & Automation ⚡
   <a href="https://linkedin.com/in/upamali-wijayawardhana/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.upamali6324@gmail.com">
+  <a href="mailto:upamali6324@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
