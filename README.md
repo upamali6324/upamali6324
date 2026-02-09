@@ -1,13 +1,15 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:001F3F&height=280&section=header&text=Upamali%20Wijayawardhana&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electrical%20%26%20Electronics%20Engineering%20Student&descAlignY=55&descSize=18" />
-</p>
+<h1 align="center">Hi👋, I'm Upamali Wijayawardhana</h1>
 
 <h3 align="center">
-Final Year EEE Student | Embedded Systems | Power & Automation ⚡
+Electrical & Electronics Engineering Undergraduate
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=650&lines=Electrical+%26+Electronics+Engineering+Student;Embedded+Systems+%26+IoT+Enthusiast;Power+Systems+%26+Automation;Building+Smart+%26+Efficient+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=650&lines=Final+Year+EEE+Student;Embedded+Systems+%26+IoT+Enthusiast;Power+Systems+%26+Automation;Designing+Efficient+Engineering+Solutions" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/main/img/github-contribution-grid-snake.svg" alt="animated grid" width="90%"/>
 </p>
 
 ---
