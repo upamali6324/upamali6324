@@ -1,13 +1,13 @@
 <h1 align="center">Hi👋, I'm Upamali Wijayawardhana</h1>
 
 <h3 align="center">
-Electrical & Electronics Engineering Undergraduate
+Electrical & Electronic Engineering Undergraduate
 </h3>
 
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Final+Year+EEE+Student;Embedded+Systems+%26+IoT;Power+Systems+%26+Automation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Final+Year+EEE+Student;Embedded+Systems+%26+IoT;Wireless+Telecommunication;Communication+Systems+%26+Networking;AI+%26+Signal+Processing" />
 </p>
 
 ---
@@ -15,7 +15,7 @@ Electrical & Electronics Engineering Undergraduate
 ## 👨‍🎓 About Me
 
 🔹 Final year undergraduate in **Electrical & Electronics Engineering**  
-🔹 Strong interest in **Embedded Systems, Power Systems, and Automation**  
+🔹 Strong interest in **Embedded Systems and IoT, Telecommunication, AI and Signal Processing**  
 🔹 Enjoy working at the intersection of **hardware and software**  
 🔹 Motivated to build reliable, efficient, and scalable engineering solutions ⚙️  
 
@@ -25,13 +25,13 @@ Electrical & Electronics Engineering Undergraduate
 
 ### ⚡ Electrical & Electronics
 - Circuit Design & Analysis  
-- Power Systems  
+- Power Systems
+- Communication Systems 
 - Signal Processing  
 - Control Systems  
 
 ### 🤖 Embedded & Hardware
-- Arduino  
-- Raspberry Pi  
+- Arduino   
 - Microcontrollers  
 - Sensors & Interfacing  
 
